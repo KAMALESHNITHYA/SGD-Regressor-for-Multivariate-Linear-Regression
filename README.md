@@ -12,10 +12,10 @@ To write a program to predict the price of the house and number of occupants in 
 2. Data preparation
 3. Hypothesis Definition
 4. Cost Function
-5.Parameter Update Rule
-6.Iterative Training
-7.Model evaluation
-8.End
+5. Parameter Update Rule
+6. Iterative Training
+7. Model evaluation
+8. End
 
 ## Program:
 ```
